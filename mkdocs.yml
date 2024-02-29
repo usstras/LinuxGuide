@@ -1,11 +1,11 @@
 # 站点名称
-site_name: 'LinuxGuide'
+site_name: 'Linux Guide'
 # 仓库链接
-repo_url: https://github.com/ZJDoc/LinuxGuide
+repo_url: https://github.com/ustras/LinuxGuide
 # 作者
-site_author: 'zhujian'
+site_author: 'usstras'
 # 版权信息
-copyright: '2021, zhujian'
+copyright: '2024, ustras'
 # 源文件目录
 docs_dir: 'docs'
 # 生成静态文件目录
